@@ -1,0 +1,8 @@
+/node_modules
+/node_modules/*
+FrontEnd/node_modules
+FrontEnd/node_modules/*
+backend/CRUD/bin
+backend/CRUD/bin/*
+backend/CRUD/obj
+backend/CRUD/obj/*
